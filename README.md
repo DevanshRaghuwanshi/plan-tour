@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Plan With Love</title> 
 </head>
 <body>
   <h1>Plan With Love</h1>
